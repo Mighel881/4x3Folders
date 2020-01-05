@@ -1,7 +1,7 @@
 Package: com.burritoz.4x3folders
 Name: 4x3 Folders
 Depends: mobilesubstrate
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Description: Sometimes 9 just isn't enough. Give your folders an extra column!
 Maintainer: burrit0z
